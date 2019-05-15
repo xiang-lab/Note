@@ -1,0 +1,4 @@
+rootProject.name = 'signaturepad'
+
+include ':SignaturePad-Library', ':SignaturePad-Example'
+include ':app'
